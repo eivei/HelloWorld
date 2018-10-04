@@ -12,9 +12,4 @@
         {
             $this->getApplication()->register(HelloWorldRouteServiceProvider::class);
         }
-     
-        public function register()
-        {
-     
-        }
     }
